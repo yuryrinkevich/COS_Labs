@@ -1,0 +1,10 @@
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.Form1.resources
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.Properties.Resources.resources
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.csproj.GenerateResource.cache
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.csproj.CoreCompileInputs.cache
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\bin\Debug\COS_Lab1.exe.config
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\bin\Debug\COS_Lab1.exe
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\bin\Debug\COS_Lab1.pdb
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.exe
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.pdb
+C:\Users\YouRec\source\repos\COS_Lab1\COS_Lab1\obj\Debug\COS_Lab1.csprojAssemblyReference.cache
