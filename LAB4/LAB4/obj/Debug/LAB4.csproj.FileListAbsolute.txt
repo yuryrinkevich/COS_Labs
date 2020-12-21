@@ -1,0 +1,10 @@
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\bin\Debug\WindowsFormsApp5.exe.config
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\bin\Debug\WindowsFormsApp5.exe
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\bin\Debug\WindowsFormsApp5.pdb
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\LAB4.csprojAssemblyReference.cache
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\WindowsFormsApp5.Form1.resources
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\WindowsFormsApp5.Properties.Resources.resources
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\LAB4.csproj.GenerateResource.cache
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\LAB4.csproj.CoreCompileInputs.cache
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\WindowsFormsApp5.exe
+d:\Учёба\4 курс\ЦОСиИ\Лаб4\LAB4\LAB4\obj\Debug\WindowsFormsApp5.pdb
